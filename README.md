@@ -1,6 +1,6 @@
 # Hi, I'm Etinosa 👋🏾👩🏾‍💻
 
-<img src="./img/image.png" alt="banner that says Etinosa Ekhator - Frontend Developer">
+<img src="https://res.cloudinary.com/do2t27qdc/image/upload/v1667853885/image_bgdarz.png" alt="banner that says Etinosa Ekhator - Frontend Developer">
 
 ### Thank you for checking out my page👋🏾
 
